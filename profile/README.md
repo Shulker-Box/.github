@@ -1,3 +1,3 @@
-<a align="center">
+<p align="center">
   <img src="/shulker.png">
-</a>
+</p>
