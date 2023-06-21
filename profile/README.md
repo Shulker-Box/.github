@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="/shulker.png">
+  <img src="/shulker_box.png">
 </p>
